@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/IMG_4039.JPG" alt="Welcome to Amar's ML Universe" width="800" style="border-radius: 10px; margin-bottom: 20px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/IMG_4042.JPG?raw=true" alt="Welcome to Amar's ML Universe" width="800" style="border-radius: 10px; margin-bottom: 20px;">
     
     <h1>Hi 👋, I'm A K Amarjith (Amar)</h1>
 </div>
