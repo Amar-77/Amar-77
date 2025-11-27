@@ -21,16 +21,13 @@
 
 </div>
 
----
 
-
----
 
 <div align="center">
 🌌 <i>“Turning ideas into intelligent, visually expressive systems that connect technology with people.”</i> 🌌
 </div>
 
----
+
 
 <div align="center">
   <p> 
@@ -98,10 +95,6 @@ CNN-based pneumonia detection from chest X-rays.
   </div>
 </details>
 
----
----
-
----
 
 ## 📊 GitHub Stats & Activity
 
@@ -128,10 +121,7 @@ CNN-based pneumonia detection from chest X-rays.
 
 </div>
 
----
 
-
----
 
 
 ## 🧠 Languages & Tools
@@ -196,13 +186,13 @@ CNN-based pneumonia detection from chest X-rays.
   </a>
 </div>
 
----
+
 
 <div align="center">
   <p style="color:#CFC9FF; font-size: 18px;">✨ “Coding reality through creativity — one neural network at a time.” ✨</p>
 </div>
 
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Forest%20tales.gif?raw=true" 
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/download%20(1).jpg?raw=true" 
        alt="Amar's ML Universe" 
        width="100%" 
        style="border-radius: 0; filter: brightness(55%); margin-top: -10px;">
