@@ -81,6 +81,40 @@ CNN-based pneumonia detection from chest X-rays.
 </details>
 
 ---
+---
+
+---
+
+## 📊 GitHub Stats & Activity
+
+ <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amar-77&theme=tokyonight" alt="Profile Summary"/>
+</div>
+<div align="center">
+
+
+  <!-- GitHub Stats and Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Amar-77&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar-77&theme=tokyonight&ring=ff79c6&fire=bd93f9" width="420" alt="GitHub Streak"/>
+
+ 
+
+
+  <!-- Top Languages -->
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar-77&layout=compact&theme=tokyonight&langs_count=8" width="420" alt="Top Languages"/>
+
+  <!-- Contribution Graph -->
+  <!--<br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar-77&theme=tokyo-night&bg_color=0d1117&color=79c0ff&line=ff79c6&point=bd93f9&area=true&hide_border=true" width="100%" alt="Contribution Graph"/> -->
+
+</div>
+
+---
+
+
+---
+
 
 ## 🧠 Languages & Tools
 
