@@ -1,10 +1,28 @@
 <!-- HEADER -->
-<div align="center">
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/IMG_4042.JPG?raw=true" alt="Welcome to Amar's ML Universe" width="850" style="border-radius: 14px; margin-bottom: 25px; box-shadow: 0 0 20px rgba(255, 143, 231, 0.3);">
+<!-- HERO SECTION -->
+<div align="center" style="position: relative;">
 
-  <h1 style="font-size: 72px; color: #E9C5FF;">A K Amarjith</h1>
-  <h3 style="font-size: 28px; color:#D8D8F6;">Computer Science Engineering Undergraduate (2026) | Building Data-Driven, Human-Centered Systems</h3>
+  <!-- Background Image -->
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/IMG_4042.JPG?raw=true" 
+       alt="Amar's ML Universe" 
+       width="100%" 
+       style="border-radius: 0; filter: brightness(55%); margin-top: -10px;">
+
+  <!-- Overlay Text -->
+  <div style="position: relative; margin-top: -240px; z-index: 2;">
+    <h1 style="font-size: 70px; color: #E9C5FF; text-shadow: 0 0 15px rgba(255,255,255,0.4);">
+      A K Amarjith
+    </h1>
+    <h3 style="font-size: 26px; color:#D8D8F6; font-weight: normal;">
+      Computer Science Engineering Undergraduate (2026) <br>
+      Building Data-Driven, Human-Centered Systems
+    </h3>
+  </div>
+
 </div>
+
+---
+
 
 ---
 
