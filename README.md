@@ -9,9 +9,7 @@
 ---
 
 <div align="center">
-
-🌌 *“Turning ideas into intelligent, visually expressive systems that connect technology with people.”* 🌌
-
+🌌 <i>“Turning ideas into intelligent, visually expressive systems that connect technology with people.”</i> 🌌
 </div>
 
 ---
@@ -42,11 +40,15 @@
 AI-powered speech assessment app for children.  
 *Built with Flutter, FastAPI, PyTorch, and Hugging Face Transformers.*
 
-<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(30, 30, 40, 0.5); box-shadow: 0 0 20px rgba(190, 88, 255, 0.3);">
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/speakease_ui_1.png?raw=true" alt="SpeakEase Home" width="250" style="border-radius: 10px; margin: 5px;">
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/speakease_ui_2.png?raw=true" alt="SpeakEase Progress" width="250" style="border-radius: 10px; margin: 5px;">
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/speakease_ui_3.png?raw=true" alt="SpeakEase Report" width="250" style="border-radius: 10px; margin: 5px;">
-</div>
+<details>
+  <summary><b>🔍 Click to preview screenshots</b> </summary>
+  <br>
+  <div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(30, 30, 40, 0.5); box-shadow: 0 0 20px rgba(190, 88, 255, 0.3);">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-09-30%20091603.png?raw=true" alt="SpeakEase Home" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-09-30%20091617.png?raw=true" alt="SpeakEase Progress" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-10-07%20235806.png?raw=true" alt="SpeakEase Report" width="250" style="border-radius: 10px; margin: 5px;">
+  </div>
+</details>
 
 ---
 
@@ -54,10 +56,14 @@ AI-powered speech assessment app for children.
 Emotion recognition using DistilBERT and NLP pipelines.  
 *Python • PyTorch • Hugging Face Transformers • FastAPI*
 
-<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(25, 25, 35, 0.5); box-shadow: 0 0 20px rgba(155, 89, 182, 0.3);">
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-11-27%20221504.png?raw=true" alt="Emo-Detect Interface" width="250" style="border-radius: 10px; margin: 5px;">
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-11-27%20221419.png?raw=true" alt="Emo-Detect Output" width="250" style="border-radius: 10px; margin: 5px;">
-</div>
+<details>
+  <summary><b>🔍 Click to preview screenshots</b> </summary>
+  <br>
+  <div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(25, 25, 35, 0.5); box-shadow: 0 0 20px rgba(155, 89, 182, 0.3);">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-11-27%20221504.png?raw=true" alt="Emo-Detect Interface" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-11-27%20221419.png?raw=true" alt="Emo-Detect Output" width="250" style="border-radius: 10px; margin: 5px;">
+  </div>
+</details>
 
 ---
 
@@ -65,10 +71,14 @@ Emotion recognition using DistilBERT and NLP pipelines.
 CNN-based pneumonia detection from chest X-rays.  
 *TensorFlow • Flask • Flutter • CNN Architecture*
 
-<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(20, 20, 30, 0.5); box-shadow: 0 0 20px rgba(100, 149, 237, 0.3);">
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/pulmoguard_ui_1.png?raw=true" alt="PulmoGuard Upload" width="250" style="border-radius: 10px; margin: 5px;">
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/pulmoguard_ui_2.png?raw=true" alt="PulmoGuard Detection" width="250" style="border-radius: 10px; margin: 5px;">
-</div>
+<details>
+  <summary><b>🔍 Click to preview screenshots</b></summary>
+  <br>
+  <div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(20, 20, 30, 0.5); box-shadow: 0 0 20px rgba(100, 149, 237, 0.3);">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/pulmoguard_ui_1.png?raw=true" alt="PulmoGuard Upload" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/pulmoguard_ui_2.png?raw=true" alt="PulmoGuard Detection" width="250" style="border-radius: 10px; margin: 5px;">
+  </div>
+</details>
 
 ---
 
