@@ -11,7 +11,7 @@
   <!-- Overlay Text -->
   <div style="position: relative; margin-top: -240px; z-index: 2;">
     <h1 style="font-size: 70px; color: #E9C5FF; text-shadow: 0 0 15px rgba(255,255,255,0.4);">
-      A K Amarjith
+      Hey Everyone, I'm A K Amarjith
     </h1>
     <h3 style="font-size: 26px; color:#D8D8F6; font-weight: normal;">
       Computer Science Engineering Undergraduate (2026) <br>
