@@ -1,92 +1,141 @@
+<!-- HEADER -->
 <div align="center">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/IMG_4042.JPG?raw=true" alt="Welcome to Amar's ML Universe" width="800" style="border-radius: 10px; margin-bottom: 20px;">
-    
-    <h1>Hi 👋, I'm A K Amarjith (Amar)</h1>
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/IMG_4042.JPG?raw=true" alt="Welcome to Amar's ML Universe" width="850" style="border-radius: 14px; margin-bottom: 25px; box-shadow: 0 0 20px rgba(255, 143, 231, 0.3);">
+
+  <h1 style="font-size: 72px; color: #E9C5FF;">A K Amarjith</h1>
+  <h3 style="font-size: 28px; color:#D8D8F6;">Computer Science Engineering Undergraduate (2026) | Building Data-Driven, Human-Centered Systems</h3>
 </div>
 
+---
+
 <div align="center">
-    <p>Building data-driven systems that turn machine learning into meaningful experiences. | Computer Science Engineering Undergraduate</p>
+
+🌌 *“Turning ideas into intelligent, visually expressive systems that connect technology with people.”* 🌌
+
 </div>
 
 ---
 
 <div align="center">
-    <p> 
-        <img src="https://komarev.com/ghpvc/?username=Amar-77&label=Profile views&color=D93D71&style=flat" alt="Profile views" /> 
-        <img src="https://img.shields.io/badge/Currently%20Learning-Data%20Science%20%26%20ML-4C75A3?style=flat-square&logo=pytorch&logoColor=white" alt="Learning ML" />
-        <img src="https://img.shields.io/badge/Seeking%20Collaboration-NLP%2FApplied%20AI-2E8B57?style=flat-square&logo=tensorflow&logoColor=white" alt="Seeking Collaboration" />
-    </p>
-</div>
-
-<br>
-
-## 🧠 ML & App Development Focus
-
-| Section | Description | 
-| :--- | :--- |
-| **🔭 Current Focus** | I'm currently working on building **data-driven systems** and exploring model deployment strategies (e.g., using **FastAPI/Flask**). |
-| **💡 Previous Work** | Passionate about **App Development** and **UI/UX**. Notable project: **SpeakEase** (Assistive App for speech disabilities). |
-| **⚡ Fun Fact** | I started as a video editor, fell in love with AI, and now teach machines to understand humans. |
-| **📄 Resume** | <a href="https://drive.google.com/file/d/1tQLoV6M0rj2wKlLqiuVtFDBZluxaWF4-/view?usp=drive_link" target="_blank">View My Experience</a> |
-| **📫 Connect** | <a href="mailto:akamarjithajith@gmail.com">akamarjithajith@gmail.com</a> |
-
-<br>
-
----
-
-## 🧪 Top Projects Showcase
-
-<div align="center">
-    <a href="YOUR_SPEAKEASE_REPO_LINK" target="_blank">
-        <img src="YOUR_SPEAKEASE_UI_IMAGE_URL" alt="SpeakEase App UI/UX" width="300" style="margin: 10px; border-radius: 8px;">
-    </a>
-    
-    <a href="YOUR_ML_PROJECT_REPO_LINK" target="_blank">
-        <img src="YOUR_ML_PROJECT_DEMO_IMAGE_URL" alt="Deep Learning Model Result" width="300" style="margin: 10px; border-radius: 8px;">
-    </a>
-    
-    <p>_Pin your top repositories to the profile to ensure they are always visible!_</p>
+  <p> 
+    <img src="https://komarev.com/ghpvc/?username=Amar-77&label=Profile%20Views&color=8e44ad&style=flat-square" alt="Profile views" /> 
+    <img src="https://img.shields.io/badge/Currently%20Learning-Data%20Science%20%26%20ML-6c5ce7?style=flat-square&logo=pytorch&logoColor=white" alt="Learning ML" />
+    <img src="https://img.shields.io/badge/Seeking%20Collaboration-NLP%20%26%20Applied%20AI-9b59b6?style=flat-square&logo=tensorflow&logoColor=white" alt="Seeking Collaboration" />
+  </p>
 </div>
 
 ---
 
-## 📊 Dynamic Activity & Stats
+## 🚀 About Me
 
-<div align="center">
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amar-77&theme=shadow&rank=-D" alt="Amar-77 Trophies" /></a> </p>
-</div>
+💡 Passionate about **Machine Learning**, **AI**, and **building real-world applications** that make data meaningful.  
+🧠 Currently learning **Data Science** and exploring **model deployment** with **FastAPI** and **Flask**.  
+🎨 Strong interest in **UI/UX**, visual storytelling, and intelligent design.  
+📱 Previously built **SpeakEase**, an award-winning AI-powered speech improvement app.  
+🎬 Started out as a **video editor** — now I train models that understand voices and emotions.  
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amar-77&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="Amar-77 GitHub Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amar-77&show_icons=true&locale=en&layout=compact&theme=dark" alt="Amar-77 Top Languages" />
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar-77&theme=dark&ring=FE7C25&fire=FE7C25" alt="Amar-77 GitHub Streak" />
+---
+
+## 🎯 Featured Projects
+
+### 🗣️ SpeakEase 2.0  
+AI-powered speech assessment app for children.  
+*Built with Flutter, FastAPI, PyTorch, and Hugging Face Transformers.*
+
+<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(30, 30, 40, 0.5); box-shadow: 0 0 20px rgba(190, 88, 255, 0.3);">
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/speakease_ui_1.png?raw=true" alt="SpeakEase Home" width="250" style="border-radius: 10px; margin: 5px;">
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/speakease_ui_2.png?raw=true" alt="SpeakEase Progress" width="250" style="border-radius: 10px; margin: 5px;">
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/speakease_ui_3.png?raw=true" alt="SpeakEase Report" width="250" style="border-radius: 10px; margin: 5px;">
 </div>
 
 ---
 
-## 🔧 Languages and Tools
+### 🧠 Emo-Detect  
+Emotion recognition using DistilBERT and NLP pipelines.  
+*Python • PyTorch • Hugging Face Transformers • FastAPI*
 
-### Machine Learning & Data Science 
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,keras,numpy,pandas,matplotlib,jupyter" alt="ML/DS Tools" width="360" height="40"/>
-</p>
-
-### App Development & Backend (UI/UX Focus)
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma,flask,fastapi" alt="App/Backend Tools" width="240" height="40"/>
-</p>
-
-### Version Control & Others
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=git,huggingface,java,c,mysql" alt="Other Tools" width="200" height="40"/>
-</p>
+<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(25, 25, 35, 0.5); box-shadow: 0 0 20px rgba(155, 89, 182, 0.3);">
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/emodetect_ui_1.png?raw=true" alt="Emo-Detect Interface" width="250" style="border-radius: 10px; margin: 5px;">
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/emodetect_ui_2.png?raw=true" alt="Emo-Detect Output" width="250" style="border-radius: 10px; margin: 5px;">
+</div>
 
 ---
 
-### Connect with me:
+### 🩺 PulmoGuard  
+CNN-based pneumonia detection from chest X-rays.  
+*TensorFlow • Flask • Flutter • CNN Architecture*
+
+<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(20, 20, 30, 0.5); box-shadow: 0 0 20px rgba(100, 149, 237, 0.3);">
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/pulmoguard_ui_1.png?raw=true" alt="PulmoGuard Upload" width="250" style="border-radius: 10px; margin: 5px;">
+  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/pulmoguard_ui_2.png?raw=true" alt="PulmoGuard Detection" width="250" style="border-radius: 10px; margin: 5px;">
+</div>
+
+---
+
+## 🧠 Languages & Tools
+
+<h4>💻 Programming Languages</h4>
 <p align="left">
-<a href="https://github.com/Amar-77" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Amar-77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/A K Amarjith . " target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="A K Amarjith . " height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=py,java,c,dart" width="180" alt="Programming Languages"/>
 </p>
+<p align="left"><sub>Python • Java • C • Dart</sub></p>
+
+<h4>🤖 Machine Learning & Data Science</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,keras" width="180" alt="ML Tools"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"/>
+  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="HuggingFace"/>
+</p>
+<p align="left"><sub>PyTorch • TensorFlow • Scikit-learn • Keras • NumPy • Pandas • Matplotlib • Jupyter • Hugging Face</sub></p>
+
+<h4>🧩 Backend Frameworks</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,firebase" width="140" alt="Backend Tools"/>
+</p>
+<p align="left"><sub>Flask • FastAPI • Firebase</sub></p>
+
+<h4>📱 App Development & Design</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,figma" width="100" alt="App Development Tools"/>
+</p>
+<p align="left"><sub>Flutter • Figma</sub></p>
+
+<h4>🗃️ Databases</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+</p>
+<p align="left"><sub>MySQL</sub></p>
+
+<h4>🧭 Version Control & Collaboration</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" width="90" alt="Version Control"/>
+</p>
+<p align="left"><sub>Git • GitHub</sub></p>
+
+---
+
+## 🌐 Connect With Me  
+
+<div align="center">
+  <a href="mailto:akamarjithajith@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://linkedin.com/in/amar07" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://github.com/Amar-77" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="50" style="margin: 10px;"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p style="color:#CFC9FF; font-size: 18px;">✨ “Coding reality through creativity — one neural network at a time.” ✨</p>
+</div>
