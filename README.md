@@ -90,8 +90,9 @@ CNN-based pneumonia detection from chest X-rays.
   <summary><b>🔍 Click to preview screenshots</b></summary>
   <br>
   <div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(20, 20, 30, 0.5); box-shadow: 0 0 20px rgba(100, 149, 237, 0.3);">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/pulmoguard_ui_1.png?raw=true" alt="PulmoGuard Upload" width="250" style="border-radius: 10px; margin: 5px;">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/pulmoguard_ui_2.png?raw=true" alt="PulmoGuard Detection" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/3.png?raw=true" alt="PulmoGuard Upload" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Analysis%20Demo.jpg?raw=true" alt="PulmoGuard Detection" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/4.png?raw=true" alt="PulmoGuard Detection" width="250" style="border-radius: 10px; margin: 5px;">
   </div>
 </details>
 
