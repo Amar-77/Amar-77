@@ -72,9 +72,9 @@ AI-powered speech assessment app for children.
   <summary><b>🔍 Click to preview screenshots</b> </summary>
   <br>
   <div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(30, 30, 40, 0.5); box-shadow: 0 0 20px rgba(190, 88, 255, 0.3);">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-09-30%20091603.png?raw=true" alt="SpeakEase Home" width="250" style="border-radius: 10px; margin: 5px;">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-09-30%20091617.png?raw=true" alt="SpeakEase Progress" width="250" style="border-radius: 10px; margin: 5px;">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-10-07%20235806.png?raw=true" alt="SpeakEase Report" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/home.jpg?raw=true" alt="SpeakEase Home" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/green.jpg?raw=true" alt="SpeakEase Progress" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/red.jpg?raw=true" alt="SpeakEase Report" width="250" style="border-radius: 10px; margin: 5px;">
   </div>
 </details>
 
