@@ -192,7 +192,7 @@ CNN-based pneumonia detection from chest X-rays.
   <a href="https://github.com/Amar-77" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" style="margin: 10px;"/>
   </a>
-  <a href="https://www.instagram.com/__amar.___/" target="_blank">
+  <a href="https://www.instagram.com/__amarr.___/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="50" style="margin: 10px;"/>
   </a>
 </div>
