@@ -37,30 +37,26 @@
   </p>
 </div>
 
----
 
 ## 🚀 About Me
 
-<div align="left" style="display: inline-block; vertical-align: top; width: 58%;">
+<a href="https://github.com/Amar-77">
+  <img align="right" width="460" src="https://github.com/Amar-77/Amar-77/blob/main/assets/This%20pin%20is%20all%20about%20coding.gif?raw=true" alt="Amar Coding" style="border-radius: 20px;" />
+</a>
 
-💡 Passionate about **Machine Learning**, **AI**, and **building real-world applications** that make data meaningful.  
-🧠 Currently learning **Data Science** and exploring **model deployment** with **FastAPI** and **Flask**.  
-🎨 Strong interest in **UI/UX**, visual storytelling, and intelligent design.  
-📱 Previously built **SpeakEase**, an award-winning AI-powered speech improvement app.  
-🎬 Started out as a **video editor** — now I train models that understand voices and emotions.  
+<br>
 
-</div>
-<div align="right" style="display: inline-block; width: 38%; text-align: center;">
+- 💡 Passionate about **Machine Learning**, **AI**, and **building real-world applications**.
+- 🧠 Currently learning **Data Science** and exploring **model deployment** with **FastAPI**.
+- 🎨 Strong interest in **UI/UX**, visual storytelling, and intelligent design.
+- 📱 Previously built **SpeakEase**, an award-winning assistive AI app.
+- 🎬 Started as a **video editor** — now I train models that understand emotion.
 
-<img src="https://github.com/Amar-77/Amar-77/blob/main/assets/about_me.png?raw=true" 
-     alt="About Me Illustration" width="300"
-     style="border-radius: 15px; box-shadow: 0 4px 15px rgba(155,89,182,0.4); transform: rotate(1deg);">
-
-</div>
+<br clear="right"/>
 
 
 
----
+
 
 ## 🎯 Featured Projects
 
@@ -196,7 +192,7 @@ CNN-based pneumonia detection from chest X-rays.
   <a href="https://github.com/Amar-77" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" style="margin: 10px;"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/__amar.___/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="50" style="margin: 10px;"/>
   </a>
 </div>
