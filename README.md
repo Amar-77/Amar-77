@@ -3,7 +3,7 @@
 <div align="center" style="position: relative;">
 
   <!-- Background Image -->
-  <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/header.gif?raw=true" 
+  <img src="https://github.com/user-attachments/assets/b9556979-84a3-4168-94df-2a0f215dfc92" 
        alt="Amar's ML Universe" 
        width="100%" 
        style="border-radius: 0; filter: brightness(55%); margin-top: -10px;">
