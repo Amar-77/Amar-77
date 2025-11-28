@@ -75,8 +75,9 @@ Emotion recognition using DistilBERT and NLP pipelines.
   <summary><b>🔍 Click to preview screenshots</b> </summary>
   <br>
   <div align="center" style="overflow-x: auto; white-space: nowrap; padding: 10px; border-radius: 10px; background: rgba(25, 25, 35, 0.5); box-shadow: 0 0 20px rgba(155, 89, 182, 0.3);">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-11-27%20221504.png?raw=true" alt="Emo-Detect Interface" width="250" style="border-radius: 10px; margin: 5px;">
-    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Screenshot%202025-11-27%20221419.png?raw=true" alt="Emo-Detect Output" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/4.jpg?raw=true" alt="Emo-Detect Interface" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/2.jpg?raw=true" alt="Emo-Detect Output" width="250" style="border-radius: 10px; margin: 5px;">
+    <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/1.jpg?raw=true" alt="Emo-Detect Output" width="250" style="border-radius: 10px; margin: 5px;">
   </div>
 </details>
 
