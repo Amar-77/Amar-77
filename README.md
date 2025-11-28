@@ -41,11 +41,24 @@
 
 ## 🚀 About Me
 
+<div align="left" style="display: inline-block; vertical-align: top; width: 58%;">
+
 💡 Passionate about **Machine Learning**, **AI**, and **building real-world applications** that make data meaningful.  
 🧠 Currently learning **Data Science** and exploring **model deployment** with **FastAPI** and **Flask**.  
 🎨 Strong interest in **UI/UX**, visual storytelling, and intelligent design.  
 📱 Previously built **SpeakEase**, an award-winning AI-powered speech improvement app.  
 🎬 Started out as a **video editor** — now I train models that understand voices and emotions.  
+
+</div>
+<div align="right" style="display: inline-block; width: 38%; text-align: center;">
+
+<img src="https://github.com/Amar-77/Amar-77/blob/main/assets/about_me.png?raw=true" 
+     alt="About Me Illustration" width="300"
+     style="border-radius: 15px; box-shadow: 0 4px 15px rgba(155,89,182,0.4); transform: rotate(1deg);">
+
+</div>
+
+
 
 ---
 
