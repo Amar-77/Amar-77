@@ -38,7 +38,7 @@
 </div>
 
 
-## 🚀 About Me
+## 🚀 About Me.
 
 <a href="https://github.com/Amar-77">
   <img align="right" width="460" src="https://github.com/Amar-77/Amar-77/blob/main/assets/This%20pin%20is%20all%20about%20coding.gif?raw=true" alt="Amar Coding" style="border-radius: 20px;" />
