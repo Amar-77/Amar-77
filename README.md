@@ -180,7 +180,7 @@ CNN-based pneumonia detection from chest X-rays.
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="mailto:akamarjithajith@gmail.com" target="_blank">
@@ -200,7 +200,7 @@ CNN-based pneumonia detection from chest X-rays.
 
 
 <div align="center">
-  <p style="color:#CFC9FF; font-size: 18px;">✨ “Coding reality through creativity — one neural network at a time.” ✨</p>
+  <p style="color:#CFC9FF; font-size: 18px;">✨ “Coding reality through creativity — one neural network at a time. ” ✨</p>
 </div>
 
   <img src="https://github.com/Amar-77/Amar-77/blob/main/assets/Forest%20tales.gif?raw=true" 
