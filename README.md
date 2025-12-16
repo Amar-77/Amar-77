@@ -14,7 +14,7 @@
       Hey Everyone, I'm A K Amarjith!
     </h1>
     <h3 style="font-size: 26px; color:#D8D8F6; font-weight: normal;">
-      Computer Science Engineering Undergraduate (2026) <br>
+      Computer Science Engineering Undergraduate(2026) <br>
       Building Data-Driven, Human-Centered Systems
     </h3>
   </div>
