@@ -62,7 +62,7 @@
 
 ### 🗣️ SpeakEase 2.0  
 AI-powered speech assessment app for children.  
-*Built with Flutter, FastAPI, PyTorch, and Hugging Face Transformers.*
+*Built with Flutter, FastAPI,PyTorch, and Hugging Face Transformers.*
 
 <details>
   <summary><b>🔍 Click to preview screenshots</b> </summary>
