@@ -180,7 +180,7 @@ CNN-based pneumonia detection from chest X-rays.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me !
 
 <div align="center">
   <a href="mailto:akamarjithajith@gmail.com" target="_blank">
