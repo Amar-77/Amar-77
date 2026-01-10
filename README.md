@@ -24,7 +24,7 @@
 
 
 <div align="center">
-🌌 <i>“Turning ideas into intelligent, visually expressive systems that connect technology with people.”</i> 🌌
+🌌 <i>“Turning ideas into intelligent! visually expressive systems that connect technology with people.”</i> 🌌
 </div>
 
 
