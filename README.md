@@ -141,7 +141,7 @@ CNN-based pneumonia detection from chest X-rays.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,java,c,dart" width="180" alt="Programming Languages"/>
 </p>
-<p align="left"><sub>Python • Java • C •  Dart</sub></p>
+<p align="left"><sub>Python • Java • C • Dart</sub></p>
 
 <h4>🤖 Machine Learning & Data Science</h4>
 <p align="left">
