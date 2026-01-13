@@ -46,7 +46,7 @@
 
 <br>
 
-- 💡 Passionate about **Machine Learning**, **AI**, and **building real-world applications **.
+- 💡 Passionate about **Machine Learning**, **AI**, and **building real-world applications**.
 - 🧠 Currently learning **Data Science** and exploring **model deployment** with **FastAPI**.
 - 🎨 Strong interest in **UI/UX**, visual storytelling, and intelligent design.
 - 📱 Previously built **SpeakEase**, an award-winning assistive AI app.
