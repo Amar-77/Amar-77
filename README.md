@@ -107,7 +107,7 @@ CNN-based pneumonia detection from chest X-rays.
 </details>
 
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activityy
 
  <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amar-77&theme=tokyonight" alt="Profile Summary"/>
