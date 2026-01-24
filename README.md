@@ -58,7 +58,7 @@
 
 
 
-## 🎯 Featured Projects:
+## 🎯 Featured Projects
 
 ### 🗣️ SpeakEase 2.0  
 AI-powered speech assessment app for children.  
